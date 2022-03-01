@@ -235,7 +235,7 @@ problematic HTML they guess! This can lead to some very strange results when you
 make an error, but if you write _invalid_ HTML, they try to recover. HTML
 validity will be discussed further soon!
 
-### Add a Description Paragraph
+### Add a Description Paragraph 
 
 Let's introduce our list by adding some background:
 
